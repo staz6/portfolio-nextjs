@@ -1,184 +1,66 @@
-import { useRouter } from 'next/router';
+import { useEffect, useState } from "react";
 
-import { Meta } from '@/layouts/Meta';
-import { Main } from '@/templates/Main';
+import BannerSection from "@/components/Panel/BannerSection";
+import ContentSection from "@/components/Panel/ContentSection";
+import NebulaBackground from "@/components/Panel/NebulaBackground";
+import { Meta } from "@/layouts/Meta";
+import { Main } from "@/templates/Main";
 
 const Index = () => {
-  const router = useRouter();
+  const [heroOpacity, setHeroOpacity] = useState(1);
+  const [heroTransform, setHeroTransform] = useState("scale(1.05)");
+  const [image1Opacity, setImage1Opacity] = useState(1);
+  const [image2Opacity, setImage2Opacity] = useState(1);
+  const [image2Transform, setImage2Transform] = useState("scale(1)");
+
+  const resetStyles = () => {
+    setHeroOpacity(1);
+    setHeroTransform("scale(1.05)");
+    setImage1Opacity(1);
+    setImage2Opacity(1);
+    setImage2Transform("scale(1)");
+  };
+  useEffect(() => {
+    const threshold = window.innerHeight;
+    const handleScroll = () => {
+      const scale = 1 + ((window.scrollY / threshold) * 1 - 1);
+      if (window.scrollY > threshold) {
+        const opacityScale = 1 - (window.scrollY / threshold) * 0.4;
+        setHeroOpacity(opacityScale);
+        setHeroTransform(`scale(${scale ** 2})`);
+        setImage1Opacity(opacityScale);
+        setImage2Opacity(window.scrollY / threshold);
+        setImage2Transform(`scale(${scale ** 0.5})`);
+      } else {
+        resetStyles();
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
+  const pageTitle = "Muhammad Aahad";
+  const pageDescription =
+    "Muhammad Aahad Full-stack web developer & DevOps Engineer";
 
   return (
-    <Main
-      meta={
-        <Meta
-          title="Next.js Boilerplate Presentation"
-          description="Next js Boilerplate is the perfect starter code for your project. Build your React application with the Next.js framework."
-        />
-      }
-    >
-      <a href="https://github.com/ixartz/Next-js-Boilerplate">
-        <img
-          src={`${router.basePath}/assets/images/nextjs-starter-banner.png`}
-          alt="Nextjs starter banner"
-        />
-      </a>
-      <h2 className="text-2xl font-bold">
-        Boilerplate code for your Nextjs project with Tailwind CSS
-      </h2>
-      <p>
-        <span role="img" aria-label="rocket">
-          🚀
-        </span>{' '}
-        Next.js Boilerplate is a starter code for your Next js project by
-        putting developer experience first .{' '}
-        <span role="img" aria-label="zap">
-          ⚡️
-        </span>{' '}
-        Made with Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged,
-        VSCode, Netlify, PostCSS, Tailwind CSS.
-      </p>
-      <h3 className="text-lg font-semibold">Next js Boilerplate Features</h3>
-      <p>Developer experience first:</p>
-      <ul>
-        <li>
-          <span role="img" aria-label="fire">
-            🔥
-          </span>{' '}
-          <a href="https://nextjs.org" rel="nofollow">
-            Next.js
-          </a>{' '}
-          for Static Site Generator
-        </li>
-        <li>
-          <span role="img" aria-label="art">
-            🎨
-          </span>{' '}
-          Integrate with{' '}
-          <a href="https://tailwindcss.com" rel="nofollow">
-            Tailwind CSS
-          </a>
-        </li>
-        <li>
-          <span role="img" aria-label="nail_care">
-            💅
-          </span>{' '}
-          PostCSS for processing Tailwind CSS
-        </li>
-        <li>
-          <span role="img" aria-label="tada">
-            🎉
-          </span>{' '}
-          Type checking Typescript
-        </li>
-        <li>
-          <span role="img" aria-label="pencil2">
-            ✏️
-          </span>{' '}
-          Linter with{' '}
-          <a href="https://eslint.org" rel="nofollow">
-            ESLint
-          </a>
-        </li>
-        <li>
-          <span role="img" aria-label="hammer_and_wrench">
-            🛠
-          </span>{' '}
-          Code Formatter with{' '}
-          <a href="https://prettier.io" rel="nofollow">
-            Prettier
-          </a>
-        </li>
-        <li>
-          <span role="img" aria-label="fox_face">
-            🦊
-          </span>{' '}
-          Husky for Git Hooks
-        </li>
-        <li>
-          <span role="img" aria-label="no_entry_sign">
-            🚫
-          </span>{' '}
-          Lint-staged for running linters on Git staged files
-        </li>
-        <li>
-          <span role="img" aria-label="no_entry_sign">
-            🗂
-          </span>{' '}
-          VSCode configuration: Debug, Settings, Tasks and extension for
-          PostCSS, ESLint, Prettier, TypeScript
-        </li>
-        <li>
-          <span role="img" aria-label="robot">
-            🤖
-          </span>{' '}
-          SEO metadata, JSON-LD and Open Graph tags with Next SEO
-        </li>
-        <li>
-          <span role="img" aria-label="robot">
-            ⚙️
-          </span>{' '}
-          <a
-            href="https://www.npmjs.com/package/@next/bundle-analyzer"
-            rel="nofollow"
-          >
-            Bundler Analyzer
-          </a>
-        </li>
-        <li>
-          <span role="img" aria-label="rainbow">
-            🌈
-          </span>{' '}
-          Include a FREE minimalist theme
-        </li>
-        <li>
-          <span role="img" aria-label="hundred">
-            💯
-          </span>{' '}
-          Maximize lighthouse score
-        </li>
-      </ul>
-      <p>Built-in feature from Next.js:</p>
-      <ul>
-        <li>
-          <span role="img" aria-label="coffee">
-            ☕
-          </span>{' '}
-          Minify HTML &amp; CSS
-        </li>
-        <li>
-          <span role="img" aria-label="dash">
-            💨
-          </span>{' '}
-          Live reload
-        </li>
-        <li>
-          <span role="img" aria-label="white_check_mark">
-            ✅
-          </span>{' '}
-          Cache busting
-        </li>
-      </ul>
-      <h3 className="text-lg font-semibold">Our Stater code Philosophy</h3>
-      <ul>
-        <li>Minimal code</li>
-        <li>SEO-friendly</li>
-        <li>
-          <span role="img" aria-label="rocket">
-            🚀
-          </span>{' '}
-          Production-ready
-        </li>
-      </ul>
-      <p>
-        Check our GitHub project for more information about{' '}
-        <a href="https://github.com/ixartz/Next-js-Boilerplate">
-          Nextjs Boilerplate
-        </a>
-        . You can also browse our{' '}
-        <a href="https://creativedesignsguru.com/category/nextjs/">
-          Premium NextJS Templates
-        </a>{' '}
-        on our website to support this project.
-      </p>
+    <Main meta={<Meta title={pageTitle} description={pageDescription} />}>
+      <div className="relative z-[2] bg-[#071231] transition-[1.5s]">
+        <NebulaBackground />
+        <div className="h-[480vh] w-full">
+          <BannerSection />
+          <ContentSection
+            heroOpacity={heroOpacity}
+            image1Transform={heroTransform}
+            image1Opacity={image1Opacity}
+            image2Opacity={image2Opacity}
+            image2Transform={image2Transform}
+          />
+        </div>
+      </div>
     </Main>
   );
 };

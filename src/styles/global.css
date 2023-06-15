@@ -19,3 +19,19 @@ a:hover {
 .content ul {
   @apply my-6;
 }
+.container-fluid{
+        max-width: 1200px;
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+@media screen and(max-width:1200px) {
+  .container-fluid{
+    max-width: 100%;
+  }
+}
