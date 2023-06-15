@@ -12,6 +12,8 @@ const Index = () => {
   const [image1Opacity, setImage1Opacity] = useState(1);
   const [image2Opacity, setImage2Opacity] = useState(1);
   const [image2Transform, setImage2Transform] = useState("scale(1)");
+  const [nebulaScale, setNebulaScale] = useState(1);
+  const [skillSetOpacity, setSkillSetOpacity] = useState(0);
 
   const resetStyles = () => {
     setHeroOpacity(1);
@@ -19,13 +21,19 @@ const Index = () => {
     setImage1Opacity(1);
     setImage2Opacity(1);
     setImage2Transform("scale(1)");
+    setNebulaScale(1);
+    setSkillSetOpacity(0);
   };
+
   useEffect(() => {
     const threshold = window.innerHeight;
+
     const handleScroll = () => {
       const scale = 1 + ((window.scrollY / threshold) * 1 - 1);
+      const opacityScale = 1 - (window.scrollY / threshold) * 0.4;
+
+      // adjust the scale and opacity of hero, image1, and image2
       if (window.scrollY > threshold) {
-        const opacityScale = 1 - (window.scrollY / threshold) * 0.4;
         setHeroOpacity(opacityScale);
         setHeroTransform(`scale(${scale ** 2})`);
         setImage1Opacity(opacityScale);
@@ -33,6 +41,19 @@ const Index = () => {
         setImage2Transform(`scale(${scale ** 0.5})`);
       } else {
         resetStyles();
+      }
+
+      // Once the opacity of ContentSection hits 0 (i.e., window.scrollY = 2.5 * threshold),
+      // make the Skill Set visible and scale up the nebula background
+      if (window.scrollY > 2.5 * threshold) {
+        setSkillSetOpacity(1);
+        setNebulaScale(scale ** 0.6);
+      }
+
+      // Once the threshold is hit again (i.e., window.scrollY = 3 * threshold),
+      // make the Skill Set invisible
+      if (window.scrollY > 3 * threshold) {
+        setSkillSetOpacity(0);
       }
     };
 
@@ -49,16 +70,33 @@ const Index = () => {
   return (
     <Main meta={<Meta title={pageTitle} description={pageDescription} />}>
       <div className="relative z-[2] bg-[#071231] transition-[1.5s]">
-        <NebulaBackground />
+        <NebulaBackground transform={`scale(${nebulaScale})`} />
         <div className="h-[480vh] w-full">
-          <BannerSection />
-          <ContentSection
-            heroOpacity={heroOpacity}
-            image1Transform={heroTransform}
-            image1Opacity={image1Opacity}
-            image2Opacity={image2Opacity}
-            image2Transform={image2Transform}
-          />
+          {/* Higher z-index to keep banner on top initially */}
+          <div className="relative z-[30]">
+            <BannerSection />
+          </div>
+
+          {/* Lower z-index but kept as absolute to come behind Banner */}
+          <div className="absolute top-0 z-[20] h-[480vh] w-full">
+            <ContentSection
+              heroOpacity={heroOpacity}
+              image1Transform={heroTransform}
+              image1Opacity={image1Opacity}
+              image2Opacity={image2Opacity}
+              image2Transform={image2Transform}
+            />
+          </div>
+
+          {/* Lowest z-index to come behind all other sections */}
+          <div className="fixed top-0 z-[10] h-screen w-full bg-transparent bg-cover text-sm leading-[1.42857143]  transition-[0.2s]">
+            <div
+              className="relative mx-auto flex min-h-screen w-full max-w-[690px] items-center justify-center text-[#ffff]"
+              style={{ opacity: skillSetOpacity }}
+            >
+              <h2>Skill sets</h2>
+            </div>
+          </div>
         </div>
       </div>
     </Main>
