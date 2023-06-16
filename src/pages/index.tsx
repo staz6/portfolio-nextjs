@@ -110,12 +110,12 @@ const Index = () => {
         <PortfolioSection />
 
         <div className="container-fluid relative z-10 mt-10">
-          <h2 className="m-0 mb-[15px] mt-[126px] p-0 font-[bold] text-2xl leading-6 text-[#87BA34]">
+          <h2 className="m-0 mb-[15px] p-0 font-[bold] text-2xl leading-6 text-[#87BA34]">
             Comapnies who helped me grow
           </h2>
           <div className="tems-center flex w-full flex-row gap-x-6 border-t border-solid border-t-[#87BA34] pb-9">
             <div>
-              <h3 className="mx-0 mb-2.5 mt-2 box-border text-[26px] font-light leading-10 text-white">
+              <h3 className="mx-0 mb-2.5 mt-2 box-border text-[1.4rem] font-light leading-10 text-white">
                 Upwork
               </h3>
               <p className="mx-0 mb-2.5 mt-[15px] box-border w-[580px] text-base font-normal not-italic leading-6 text-slate-50">
@@ -138,7 +138,7 @@ const Index = () => {
 
           <div className="flex w-full flex-row items-center gap-x-6 border-t border-solid border-t-[#87BA34] pb-9">
             <div>
-              <h3 className="mx-0 mb-2.5 mt-2 box-border text-[26px] font-light leading-10 text-white">
+              <h3 className="mx-0 mb-2.5 mt-2 box-border text-[1.4rem] font-light leading-10 text-white">
                 Quantum-hub
               </h3>
               <p className="mx-0 mb-2.5 mt-[15px] box-border w-[650px] text-base font-normal not-italic leading-6 text-slate-50">
@@ -161,7 +161,7 @@ const Index = () => {
 
           <div className="tems-center flex w-full flex-row gap-x-6 border-t border-solid border-t-[#87BA34] pb-9">
             <div>
-              <h3 className="mx-0 mb-2.5 mt-2 box-border text-[26px] font-light leading-10 text-white">
+              <h3 className="mx-0 mb-2.5 mt-2 box-border text-[1.4rem] font-light leading-10 text-white">
                 Nastech LTD
               </h3>
               <p className="mx-0 mb-2.5 mt-[15px] box-border w-[740px] text-base font-normal not-italic leading-6 text-slate-50">
