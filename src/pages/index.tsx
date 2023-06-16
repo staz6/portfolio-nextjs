@@ -105,7 +105,7 @@ const Index = () => {
       <div className="relative z-[2] bg-black bg-cover bg-no-repeat leading-[1.42857143] text-[#333]">
         <PortfolioBackgroundIcon />
         <PortfolioSpinIcon />
-        <div className="container-fluid">
+        <div className="container-fluid relative z-10">
           <h2 className="m-0 mb-[15px] mt-[126px] p-0 font-[bold] text-2xl leading-6 text-[#87BA34]">
             Portfolio
           </h2>
@@ -120,25 +120,25 @@ const Index = () => {
                 src="ih-1.webp"
                 position="center"
                 stack={["React", "Nodejs", "Firebase", "AWS"]}
-                desc="Loren ipsum"
+                desc="Directing the engineering of an advanced e-learning platform."
               />
               <ProjectContainer
                 src="sc-1.webp"
                 position="center"
                 stack={["React", ".Net", "Azure Function"]}
-                desc="Loren ipsum"
+                desc="Crafting a low-cost, impactful solution for Toronto’s “Storage Connect” charity initiative"
               />
               <ProjectContainer
                 src="cd-1.webp"
                 position="top"
                 stack={["React", "Nestjs", "Shopify"]}
-                desc="Loren ipsum"
+                desc="Streamlining and optimizing the website and infrastructure for enhanced performance"
               />
               <ProjectContainer
                 src="occu-1.webp"
                 position="top"
                 stack={["React", "Lambda Function", "AWS Cognito"]}
-                desc="Loren ipsum"
+                desc="Delivered an insurance claim solution for Quality Claims, now in use by 300+ employees."
               />
             </div>
           </div>

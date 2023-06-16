@@ -9,7 +9,7 @@ export default function BannerSection() {
           Muhammad Aahad
         </h1>
         <h2 className="mb-7 mt-4 text-[25px] leading-7 text-white">
-          Full-stack web developer & DevOps Engineer
+          Full-stack developer and DevOps engineer
         </h2>
       </div>
     </div>
