@@ -1,0 +1,473 @@
+<svg class="position_big-image3" id="Platform___Automation" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2500 2500">
+													<defs>
+														<style>
+															.bigImagePath-3-1 {
+																stroke: url(#bigImageGradient-3-3);
+															}
+
+															.bigImagePath-3-1,
+															.bigImagePath-3-2,
+															.bigImagePath-3-3,
+															.bigImagePath-3-4 {
+																fill: none;
+																stroke-miterlimit: 10;
+																stroke-width: 4px;
+															}
+
+															.bigImagePath-3-2 {
+																stroke: url(#bigImageGradient-3-2);
+															}
+
+															.bigImagePath-3-5,
+															.bigImagePath-3-6 {
+																fill: #fff;
+															}
+
+															.bigImagePath-3-3 {
+																stroke: #fff;
+															}
+
+															.bigImagePath-3-4 {
+																stroke: url(#bigImageGradient-3);
+															}
+
+															.bigImagePath-3-7 {
+																opacity: .77;
+															}
+
+															.bigImagePath-3-8 {
+																opacity: .8;
+															}
+
+															.bigImagePath-3-6 {
+																font-family: OpenSans-Regular, 'Open Sans';
+																font-size: 68.53px;
+															}
+														</style>
+														<linearGradient id="bigImageGradient-3" x1="4373.81" y1="5319.56" x2="7309.6" y2="5319.56" gradientTransform="translate(6829.37 -322.83) rotate(111.07)" gradientUnits="userSpaceOnUse">
+															<stop offset="0" stop-color="#77be45"></stop>
+															<stop offset=".17" stop-color="#77be44" stop-opacity=".75"></stop>
+															<stop offset=".37" stop-color="#77be43" stop-opacity=".5"></stop>
+															<stop offset=".56" stop-color="#77be43" stop-opacity=".3"></stop>
+															<stop offset=".73" stop-color="#77be43" stop-opacity=".16"></stop>
+															<stop offset=".88" stop-color="#77be43" stop-opacity=".07"></stop>
+															<stop offset="1" stop-color="#77be43" stop-opacity=".04"></stop>
+														</linearGradient>
+														<linearGradient id="bigImageGradient-3-2" x1="4535.88" y1="-1215.85" x2="5248.68" y2="-1215.85" gradientTransform="translate(3568.84 -2015.13) rotate(122.22)" xlink:href="#bigImageGradient-3"></linearGradient>
+														<linearGradient id="bigImageGradient-3-3" x1="6211.76" y1="-168.54" x2="8106.37" y2="-168.54" gradientTransform="translate(5462.89 -2078.83) rotate(131.67)" xlink:href="#bigImageGradient-3"></linearGradient>
+													</defs>
+													<g id="Outer_ring">
+														<g id="Outer_Rays">\<g class=" bowspin-class"><text class="bigImagePath-3-6" transform="translate(1992.03 481.41) rotate(45.44) skewX(-.01)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2019.27 509.05) rotate(47.5)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2045.46 537.63) rotate(49.56)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2070.62 567.14) rotate(51.62)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2094.7 597.53) rotate(53.68)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2117.68 628.77) rotate(55.74)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2139.5 660.8) rotate(57.8)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2160.18 693.62) rotate(59.86)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2179.65 727.13) rotate(61.92) skewX(.01)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2197.91 761.34) rotate(63.99) skewX(.01)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2214.93 796.19) rotate(66.05) skewX(.02)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2230.67 831.62) rotate(68.12) skewX(.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2245.12 867.59) rotate(70.2) skewX(.02)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2258.27 904.09) rotate(72.27) skewX(.02)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2270.08 941) rotate(74.35) skewX(.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2280.54 978.34) rotate(76.44) skewX(.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2289.65 1016.04) rotate(78.52) skewX(.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2297.37 1054.03) rotate(80.61) skewX(.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2303.71 1092.28) rotate(82.69) skewX(.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2308.65 1130.73) rotate(84.78) skewX(.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2312.19 1169.35) rotate(86.86) skewX(.04)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2314.32 1208.07) rotate(88.93) skewX(.04)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2315.05 1246.86) rotate(91.01) skewX(.04)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2314.38 1285.64) rotate(93.07) skewX(.04)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2312.3 1324.37) rotate(95.12) skewX(.04)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2308.85 1362.99) rotate(97.16) skewX(.04)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2304.06 1401.46) rotate(99.31) skewX(.04)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2297.83 1439.78) rotate(101.23) skewX(.04)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2290.28 1477.83) rotate(103.28) skewX(.04)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2281.38 1515.58) rotate(105.34) skewX(.04)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2271.13 1553) rotate(107.41) skewX(.04)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2259.53 1590) rotate(109.48) skewX(.04)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2246.61 1626.56) rotate(111.56) skewX(.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2232.36 1662.64) rotate(113.65) skewX(.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2216.8 1698.18) rotate(115.73) skewX(.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2199.97 1733.13) rotate(117.81) skewX(.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2181.87 1767.45) rotate(119.9) skewX(.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2162.55 1801.06) rotate(121.98) skewX(.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2142.02 1833.97) rotate(124.06) skewX(.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2120.29 1866.13) rotate(126.13) skewX(.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2097.43 1897.45) rotate(128.2) skewX(.02)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2073.44 1927.95) rotate(130.27) skewX(.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2048.37 1957.55) rotate(132.34) skewX(.01)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(2022.24 1986.25) rotate(134.4) skewX(.01)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1995.1 2013.97) rotate(136.46)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1966.96 2040.72) rotate(138.52)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1937.91 2066.42) rotate(140.58)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1907.94 2091.06) rotate(142.63)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1877.11 2114.62) rotate(144.69)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1845.45 2137.06) rotate(146.74)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1813.01 2158.34) rotate(148.8)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1779.83 2178.44) rotate(150.86)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1745.94 2197.34) rotate(152.92) skewX(-.01)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1711.41 2215) rotate(154.99) skewX(-.01)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1676.23 2231.43) rotate(157.06) skewX(-.02)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1640.51 2246.55) rotate(159.13) skewX(-.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1604.27 2260.38) rotate(161.2) skewX(-.02)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1567.56 2272.88) rotate(163.28) skewX(-.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1530.4 2284.05) rotate(165.36) skewX(-.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1492.86 2293.87) rotate(167.45) skewX(-.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1454.88 2302.18) rotate(168.96) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1437.57 2305.56) rotate(169.91) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1420.23 2308.65) rotate(170.86) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1402.81 2311.45) rotate(171.81) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1385.37 2313.96) rotate(172.76) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1367.9 2316.18) rotate(173.71) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1350.38 2318.12) rotate(174.65) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1332.85 2319.76) rotate(175.6) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1315.28 2321.11) rotate(176.55) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1297.7 2322.18) rotate(177.49) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1280.08 2322.95) rotate(178.44) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1262.46 2323.43) rotate(179.38) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1244.84 2323.62) rotate(-179.68) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1227.23 2323.53) rotate(-178.74) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1209.61 2323.14) rotate(-177.8) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1192.01 2322.46) rotate(-176.86) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1174.42 2321.5) rotate(-175.92) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1156.84 2320.25) rotate(-174.99) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1139.28 2318.71) rotate(-174.06) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1121.76 2316.89) rotate(-173.13) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1104.2 2314.71) rotate(-172.59) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1086.88 2312.49) rotate(-170.73) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1069.37 2309.72) rotate(-170.36) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1051.99 2306.77) rotate(-169.43) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1034.68 2303.55) rotate(-168.5) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1017.43 2300.04) rotate(-167.57) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1000.22 2296.25) rotate(-166.64) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(983.07 2292.17) rotate(-165.7) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(966.02 2287.83) rotate(-164.76) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(949.01 2283.2) rotate(-163.82) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(932.08 2278.29) rotate(-162.88) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(915.26 2273.1) rotate(-161.93) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(898.49 2267.64) rotate(-160.99) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(881.83 2261.9) rotate(-160.04) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(865.29 2255.89) rotate(-159.09) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(848.84 2249.61) rotate(-158.15) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(832.48 2243.05) rotate(-157.2) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(816.25 2236.23) rotate(-156.25) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(800.11 2229.13) rotate(-155.3) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(784.11 2221.77) rotate(-154.35) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(768.23 2214.15) rotate(-153.4) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(752.49 2206.27) rotate(-152.45) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(736.86 2198.12) rotate(-151.5) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(721.4 2189.72) rotate(-150.56) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(706.05 2181.06) rotate(-149.61) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(690.85 2172.15) rotate(-148.66) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(675.8 2162.99) rotate(-147.71) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(660.92 2153.59) rotate(-146.77) skewX(-.02)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(646.18 2143.93) rotate(-145.82) skewX(-.02)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(631.61 2134.04) rotate(-144.88) skewX(-.02)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(617.21 2123.91) rotate(-143.93) skewX(-.02)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(602.96 2113.53) rotate(-142.99) skewX(-.02)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(588.9 2102.94) rotate(-142.04) skewX(-.02)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(575.02 2092.11) rotate(-141.1) skewX(-.02)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(561.3 2081.04) rotate(-140.16) skewX(-.02)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(547.78 2069.76) rotate(-139.22) skewX(-.02)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(534.45 2058.27) rotate(-138.28) skewX(-.02)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(521.29 2046.53) rotate(-137.34) skewX(-.01)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(508.34 2034.61) rotate(-136.4) skewX(-.01)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(495.58 2022.46) rotate(-135.46) skewX(-.01)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(483.03 2010.11) rotate(-134.52) skewX(-.01)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(470.67 1997.54) rotate(-133.59)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(458.54 1984.8) rotate(-132.65)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(446.6 1971.85) rotate(-131.71)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(434.87 1958.68) rotate(-130.78)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(423.33 1945.52) rotate(-129.28)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(398.77 1915.51) rotate(-127.22)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(375.31 1884.64) rotate(-125.16)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(352.98 1852.94) rotate(-123.1)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(331.79 1820.47) rotate(-121.04)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(311.79 1787.25) rotate(-118.98)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(293 1753.34) rotate(-116.92) skewX(.01)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(275.44 1718.77) rotate(-114.85) skewX(.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(259.14 1683.6) rotate(-112.78) skewX(.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(244.12 1647.84) rotate(-110.71) skewX(.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(230.4 1611.59) rotate(-108.63) skewX(.02)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(218.01 1574.85) rotate(-106.56) skewX(.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(206.95 1537.68) rotate(-104.47) skewX(.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(197.25 1500.13) rotate(-102.39) skewX(.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(188.92 1462.28) rotate(-100.31) skewX(.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(181.98 1424.13) rotate(-98.22) skewX(.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(176.42 1385.74) rotate(-96.13) skewX(.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(172.27 1347.19) rotate(-94.05) skewX(.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(169.53 1308.52) rotate(-91.97) skewX(.04)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(168.18 1269.75) rotate(-89.9) skewX(.04)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(168.25 1230.97) rotate(-87.83) skewX(.04)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(169.71 1192.22) rotate(-85.77) skewX(.04)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(172.56 1153.54) rotate(-83.73) skewX(.04)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(177.08 1115.02) rotate(-82.55) skewX(.04)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(182.39 1076.58) rotate(-79.66) skewX(.04)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(189.34 1038.42) rotate(-77.62) skewX(.04)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(197.65 1000.53) rotate(-75.56) skewX(.04)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(207.31 962.98) rotate(-73.5) skewX(.04)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(218.32 925.77) rotate(-71.42) skewX(.04)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(230.84 888.96) rotate(-69.91) skewX(.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(236.72 872.46) rotate(-68.4) skewX(.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(250.99 836.39) rotate(-66.32) skewX(.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(266.56 800.87) rotate(-64.23) skewX(.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(283.42 765.93) rotate(-62.15) skewX(.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(301.54 731.62) rotate(-60.07) skewX(.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(320.88 698.02) rotate(-57.99) skewX(.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(341.44 665.11) rotate(-55.91) skewX(.02)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(363.18 632.98) rotate(-53.83) skewX(.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(386.07 601.65) rotate(-51.76) skewX(.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(410.08 571.17) rotate(-49.69) skewX(.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(435.17 541.59) rotate(-47.63) skewX(.01)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(461.3 512.93) rotate(-45.57) skewX(.01)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(488.48 485.2) rotate(-43.5)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(516.61 458.5) rotate(-41.45)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(545.68 432.81) rotate(-39.39)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(575.66 408.18) rotate(-37.33)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(606.51 384.65) rotate(-35.28)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(638.18 362.23) rotate(-33.22)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(670.63 340.97) rotate(-31.16)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(703.84 320.88) rotate(-29.1)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(737.74 302) rotate(-27.04) skewX(-.01)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(772.29 284.35) rotate(-24.98) skewX(-.01)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(807.46 267.96) rotate(-22.91) skewX(-.02)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(843.19 252.85) rotate(-20.84) skewX(-.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(879.44 239.05) rotate(-18.76) skewX(-.02)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(916.16 226.57) rotate(-16.68) skewX(-.02)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(953.33 215.42) rotate(-14.6) skewX(-.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(990.87 205.63) rotate(-12.52) skewX(-.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1028.73 197.22) rotate(-10.43) skewX(-.03)">
+																	<tspan x="0" y="0">1</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1066.88 190.19) rotate(-8.34) skewX(-.03)">
+																	<tspan x="0" y="0">0</tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1105.39 184.68) rotate(-6.83) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1122.89 182.58) rotate(-5.88) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1140.41 180.78) rotate(-4.93) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1157.97 179.26) rotate(-3.98) skewX(-.03)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1175.55 178.04) rotate(-3.04) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1193.13 177.1) rotate(-2.09) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1210.74 176.46) rotate(-1.15) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1228.36 176.1) rotate(-.2) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1245.98 176.04) rotate(.74) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text><text class="bigImagePath-3-6" transform="translate(1263.61 176.26) rotate(1.68) skewX(-.04)">
+																	<tspan x="0" y="0"> </tspan>
+																</text></g>
+														</g>
+														<g class="group-roatate2">
+															<g id="lines-measure-outer_ring">
+																<path class="bigImagePath-3-5" d="M2114.81,494.38l-1.27-1.45,28.84-25.24,1.25,1.43-28.83,25.26Zm-13.85-15.57l-1.18-1.3,28.31-25.84,1.39,1.54-28.52,25.6Zm-14.02-15.2l-1.26-1.34,27.88-26.3,1.37,1.45-27.98,26.19Zm-14.23-14.9l-1.4-1.43,27.44-26.76,1.28,1.31-27.32,26.87Zm-14.62-14.75l-1.42-1.4,26.99-27.21,1.31,1.29-26.87,27.32Zm-14.81-14.43l-1.45-1.38,26.42-27.76,1.33,1.27-26.3,27.88Zm-15.18-14.27l-1.41-1.3,25.96-28.2,1.41,1.3-25.95,28.21Zm-15.44-14.01l-1.32-1.17,25.37-28.73,1.55,1.38-25.6,28.52Zm-15.56-13.61l-1.4-1.2,24.89-29.15,1.51,1.3-24.99,29.05Zm-15.81-13.33l-1.49-1.23,24.4-29.55,1.47,1.21-24.38,29.58Zm-16.18-13.16l-1.38-1.09,23.77-30.06,1.62,1.3-24.02,29.86Zm-16.23-12.71l-1.58-1.21,23.39-30.36,1.46,1.13-23.28,30.44Zm-16.5-12.46l-1.59-1.18,22.74-30.85,1.49,1.1-22.64,30.93Zm-16.85-12.25l-1.56-1.11,22.23-31.22,1.56,1.11-22.23,31.22Zm-16.94-11.86l-1.59-1.08,21.57-31.68,1.58,1.08-21.57,31.68Zm-17.28-11.64l-1.55-1.02,21.05-32.02,1.65,1.09-21.15,31.96Zm-17.39-11.26l-1.59-1.01,20.47-32.4,1.65,1.04-20.53,32.36Zm-17.53-10.91l-1.72-1.04,19.95-32.73,1.56,.95-19.78,32.82Zm-17.83-10.65l-1.66-.97,19.25-33.14,1.66,.97-19.25,33.14Zm-18.08-10.36l-1.59-.89,18.65-33.48,1.76,.98-18.82,33.39Zm-18.04-9.91l-1.78-.95,18.12-33.78,1.61,.86-17.94,33.87Zm-18.44-9.7l-1.71-.88,17.5-34.1,1.71,.88-17.5,34.1Zm-18.47-9.3l-1.77-.86,16.87-34.41,1.68,.82-16.78,34.46Zm-18.82-9.05l-1.6-.75,16.15-34.76,1.87,.87-16.42,34.64Zm-18.72-8.58l-1.85-.82,15.69-34.97,1.66,.74-15.5,35.05Zm-18.96-8.29l-1.91-.8,15.05-35.25,1.63,.69-14.77,35.36Zm-19.25-7.99l-1.78-.72,14.31-35.56,1.78,.72-14.31,35.56Zm-19.33-7.63l-1.76-.67,13.65-35.81,1.83,.7-13.73,35.78Zm-19.43-7.25l-1.77-.64,12.99-36.06,1.84,.66-13.06,36.04Zm-19.56-6.9l-1.78-.61,12.32-36.29,1.85,.63-12.39,36.27Zm-19.78-6.57l-1.69-.54,11.65-36.52,1.96,.63-11.92,36.43Zm-19.8-6.18l-1.71-.51,10.97-36.73,1.97,.6-11.24,36.64Zm-19.91-5.82l-1.71-.48,10.29-36.92,1.98,.56-10.56,36.84Zm-19.98-5.45l-1.78-.47,9.66-37.08,1.94,.51-9.82,37.05Zm-20.11-5.1l-1.79-.43,8.98-37.26,1.95,.48-9.14,37.22Zm-20.22-4.73l-1.77-.39,8.29-37.42,1.98,.45-8.5,37.37Zm-20.2-4.35l-1.86-.38,7.61-37.56,1.9,.39-7.64,37.56Zm-20.34-3.99l-1.91-.35,6.95-37.69,1.87,.34-6.92,37.7Zm-414.68-1.81l-6.74-37.73,1.99-.35,6.52,37.77-1.78,.31Zm394.2-1.82l-1.88-.31,6.27-37.81,1.91,.32-6.3,37.8Zm-373.75-1.62l-6.08-37.84,2.01-.32,5.83,37.88-1.77,.28Zm353.27-1.63l-1.92-.28,5.61-37.92,1.89,.28-5.58,37.92Zm-332.77-1.44l-5.39-37.95,2.01-.28,5.17,37.98-1.79,.25Zm312.18-1.44l-1.89-.24,4.92-38.01,1.92,.25-4.95,38.01Zm-291.62-1.26l-4.72-38.04,2.02-.25,4.48,38.07-1.78,.22Zm271.01-1.25l-1.91-.21,4.26-38.09,1.91,.21-4.26,38.09Zm-250.41-1.07l-4.03-38.12,1.89-.19,4.06,38.11-1.92,.2Zm229.88-1.06l-2.04-.19,3.59-38.15,1.79,.16-3.35,38.18Zm-209.23-.9l-3.37-38.18,1.91-.16,3.37,38.18-1.91,.16Zm188.52-.87l-2.02-.15,2.9-38.21,1.82,.13-2.7,38.23Zm-167.84-.73l-2.7-38.23,1.91-.13,2.7,38.23-1.91,.13Zm147.12-.67l-2.03-.12,2.24-38.26,1.81,.1-2.01,38.27Zm-126.42-.54l-2.03-38.27,1.92-.1,2.01,38.27-1.91,.1Zm105.67-.49l-2.03-.08,1.56-38.3,1.81,.07-1.35,38.3Zm-85.06-.36l-1.13-38.31,1.8-.06,1.35,38.3-2.02,.06Zm64.3-.3l-2.04-.04,.9-38.32,1.81,.04-.67,38.32Zm-43.57-.18l-.45-38.33,1.8-.02,.67,38.32-2.02,.03Zm22.79-.11h-2.04l.22-38.33h1.81v38.33Z"></path>
+																<path class="bigImagePath-3-5" d="M1240.4,2437.63h-2.03l.45-38.34h1.8l-.22,38.34Zm19.39-.02l-.22-38.33,1.8-.02,.45,38.33-2.02,.02Zm-40.8-.32l-2.03-.05,1.13-38.31,1.8,.04-.9,38.32Zm62.32-.07l-1.12-38.31,1.91-.06,1.13,38.31-1.92,.06Zm-83.72-.65l-2.03-.09,1.79-38.28,1.8,.07-1.56,38.3Zm105.11-.12l-1.8-38.28,1.91-.09,1.8,38.28-1.91,.09Zm-126.51-.98l-2.02-.12,2.46-38.24,1.81,.11-2.25,38.26Zm147.88-.16l-2.48-38.24,1.91-.12,2.48,38.24-1.91,.12Zm-169.25-1.32l-2.02-.16,3.14-38.2,1.8,.14-2.92,38.21Zm190.61-.22l-3.17-38.2,1.92-.16,3.14,38.2-1.89,.15Zm-211.94-1.65l-1.91-.18,3.59-38.15,1.91,.18-3.59,38.15Zm233.26-.26l-3.83-38.13,1.92-.19,3.81,38.14-1.89,.19Zm-254.56-1.99l-1.92-.22,4.28-38.09,1.89,.22-4.26,38.09Zm275.83-.31l-4.48-38.07,1.89-.22,4.51,38.06-1.92,.23Zm-297.09-2.32l-1.89-.25,4.92-38.01,1.92,.25-4.95,38.01Zm318.36-.36l-5.2-37.98,1.91-.26,5.17,37.98-1.88,.26Zm-339.65-2.67l-1.81-.27,5.61-37.92,2,.3-5.79,37.89Zm360.82-.39l-5.83-37.88,1.88-.29,5.86,37.88-1.91,.29Zm-382.05-3.02l-1.79-.3,6.27-37.81,2.01,.34-6.48,37.77Zm403.31-.43l-6.74-37.73,1.99-.35,6.52,37.77-1.78,.31Zm-424.47-3.36l-1.76-.33,6.92-37.7,2.02,.38-7.17,37.65Zm445.53-.47l-7.39-37.61,1.97-.38,7.22,37.65-1.79,.34Zm-466.61-3.71l-1.91-.4,7.86-37.51,1.86,.39-7.82,37.52Zm487.64-.5l-8.12-37.46,2-.42,7.86,37.51-1.74,.37Zm-508.65-4.06l-1.88-.43,8.5-37.37,1.88,.43-8.5,37.37Zm529.56-.52l-8.77-37.31,1.97-.46,8.55,37.36-1.76,.4Zm-550.48-4.42l-1.84-.46,9.14-37.22,1.89,.46-9.19,37.21Zm571.29-.54l-9.4-37.16,1.94-.48,9.24,37.2-1.78,.45Zm-592.09-4.77l-1.89-.5,9.87-37.03,1.83,.49-9.82,37.05Zm612.87-.58l-10.14-36.96,1.98-.53,9.87,37.03-1.71,.46Zm-633.59-5.12l-1.88-.54,10.56-36.84,1.82,.52-10.5,36.86Zm654.24-.61l-10.82-36.76,1.97-.57,10.56,36.84-1.71,.49Zm-674.85-5.47l-1.87-.57,11.24-36.64,1.81,.55-11.18,36.66Zm695.37-.61l-11.45-36.58,1.94-.6,11.24,36.64-1.73,.53Zm-715.86-5.84l-1.83-.6,11.85-36.45,1.83,.6-11.85,36.45Zm-20.38-6.82l-1.75-.6,12.39-36.27,1.88,.65-12.52,36.22Zm-20.24-7.19l-1.74-.64,13.06-36.03,1.87,.68-13.19,35.98Zm-20.1-7.56l-1.73-.67,13.73-35.78,1.85,.71-13.85,35.74Zm-19.99-7.93l-1.64-.67,14.31-35.56,1.91,.78-14.58,35.44Zm-19.72-8.25l-1.73-.74,14.96-35.29,1.81,.77-15.05,35.25Zm-19.65-8.63l-1.85-.83,15.88-34.88,1.66,.75-15.69,34.97Zm-19.5-8.99l-1.78-.84,16.42-34.64,1.7,.8-16.33,34.67Zm-19.36-9.36l-1.68-.83,16.96-34.37,1.77,.88-17.05,34.32Zm-19.14-9.69l-1.66-.86,17.59-34.05,1.74,.91-17.67,34.01Zm-18.92-10.02l-1.73-.94,18.29-33.68,1.65,.89-18.21,33.72Zm-18.78-10.38l-1.67-.94,18.82-33.39,1.67,.94-18.82,33.39Zm-18.64-10.74l-1.52-.89,19.25-33.14,1.79,1.05-19.52,32.98Zm-18.3-10.99l-1.77-1.09,20.21-32.56,1.5,.92-19.95,32.73Zm-18.23-11.4l-1.62-1.03,20.64-32.3,1.62,1.03-20.64,32.3Zm-17.94-11.68l-1.55-1.03,21.05-32.02,1.65,1.09-21.15,31.96Zm-17.75-12.02l-1.58-1.09,21.72-31.57,1.58,1.09-21.72,31.57Zm-17.58-12.37l-1.53-1.1,22.34-31.14,1.58,1.13-22.38,31.11Zm-17.28-12.63l-1.54-1.15,22.89-30.74,1.54,1.15-22.89,30.74Zm-17.05-12.94l-1.52-1.17,23.39-30.36,1.52,1.17-23.39,30.36Zm-16.88-13.3l-1.44-1.16,23.92-29.95,1.55,1.25-24.02,29.86Zm-16.57-13.54l-1.49-1.24,24.54-29.44,1.46,1.22-24.52,29.46Zm-16.39-13.89l-1.33-1.15,24.89-29.15,1.57,1.36-25.13,28.94Zm-16.07-14.13l-1.31-1.17,25.37-28.73,1.55,1.38-25.6,28.52Zm-15.82-14.41l-1.4-1.3,26.07-28.09,1.4,1.3-26.07,28.09Zm-15.56-14.69l-1.44-1.38,26.65-27.55,1.32,1.27-26.54,27.66Zm-15.28-14.97l-1.36-1.35,26.99-27.21,1.36,1.35-26.99,27.21Zm-15.08-15.29l-1.33-1.38,27.55-26.65,1.33,1.38-27.55,26.65Zm-14.8-15.56l-1.2-1.28,27.88-26.3,1.41,1.52-28.09,26.07Zm-14.46-15.76l-1.18-1.3,28.31-25.84,1.39,1.54-28.52,25.6Zm-14.17-16.02l-1.21-1.39,28.84-25.24,1.31,1.5-28.94,25.13Zm-13.88-16.27l-1.19-1.41,29.26-24.76,1.28,1.52-29.35,24.64Zm-13.64-16.58l-1.16-1.43,29.77-24.13,1.25,1.55-29.86,24.02Zm-13.29-16.75l-1.19-1.53,30.28-23.5,1.16,1.5-30.25,23.53Zm-13-17l-1.13-1.51,30.63-23.03,1.16,1.55-30.66,23Zm-12.68-17.21l-1.16-1.61,31.11-22.38,1.09,1.5-31.04,22.49Zm-12.42-17.51l-1.04-1.5,31.4-21.98,1.15,1.65-31.51,21.83Zm-12.05-17.67l-1.03-1.54,31.78-21.42,1.1,1.64-31.85,21.31Zm-11.81-18l-.46-.73,32.06-21,.76,1.17-32.35,20.56Z"></path>
+															</g>
+															<g>
+																<g>
+																	<g id="lines-measure-outer_ring-2" class="bigImagePath-3-8">
+																		<path class="bigImagePath-3-5" d="M40.4,1437.1c-19.91-116.53-22.16-235.62-6.69-353.96,26.23-200.68,103.53-392.08,223.55-553.49,116.34-156.46,271.14-283.18,447.67-366.46l1.65,3.51c-175.95,83-330.24,209.31-446.21,365.26-119.63,160.88-196.68,351.65-222.81,551.67-15.42,117.96-13.17,236.66,6.67,352.81l-3.83,.65Z"></path>
+																	</g>
+																	<path class="bigImagePath-3-5" d="M716.68,174.11c-9.67,0-17.54-7.87-17.54-17.54s7.87-17.54,17.54-17.54,17.54,7.87,17.54,17.54-7.87,17.54-17.54,17.54Zm0-31.08c-7.47,0-13.54,6.07-13.54,13.54s6.07,13.54,13.54,13.54,13.54-6.07,13.54-13.54-6.07-13.54-13.54-13.54Z"></path>
+																</g>
+																<g>
+																	<g id="lines-measure-outer_ring-3">
+																		<path class="bigImagePath-3-5" d="M2055.17,2153.15l-2.54-2.94c114.07-98.74,207.06-216.48,276.41-349.94,86.72-166.87,132.55-355.17,132.55-544.54,0-69.9-6.15-139.95-18.27-208.21l3.82-.68c12.16,68.49,18.33,138.77,18.33,208.9,0,189.99-45.99,378.91-132.99,546.33-69.58,133.89-162.88,252.02-277.32,351.08Z"></path>
+																	</g>
+																	<path class="bigImagePath-3-5" d="M2043.59,2180.29c-9.67,0-17.54-7.87-17.54-17.54s7.87-17.54,17.54-17.54,17.54,7.87,17.54,17.54-7.87,17.54-17.54,17.54Zm0-31.08c-7.47,0-13.54,6.08-13.54,13.54s6.08,13.54,13.54,13.54,13.54-6.07,13.54-13.54-6.07-13.54-13.54-13.54Z"></path>
+																</g>
+															</g>
+														</g>
+													</g>
+												</svg>

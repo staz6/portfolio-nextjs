@@ -28,8 +28,8 @@ export default function SkillsSection() {
         className="absolute left-0 top-[-90px]"
       />
       <SkillsImage
-        src="js-icon.png"
-        alt="JavaScript Icon"
+        src="nextjs-icon.png"
+        alt="Nextjs Icon"
         width={90}
         height={90}
         className="absolute left-[-108px] top-2/4"

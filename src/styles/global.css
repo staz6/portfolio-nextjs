@@ -29,6 +29,42 @@ a:hover {
         margin-left: auto;
         margin-right: auto;
 }
+.skills-description--section{
+  width: 980px !important;
+}
+
+.spin{
+  animation: spin 100s linear infinite;
+}
+.spin2{
+  animation: spin2 100s linear infinite;
+}
+
+@keyframes spin{
+  0% {
+    transform: rotate(0deg);
+    transform-origin: center;
+    transform-box: fill-box;
+}
+100% {
+  transform: rotate(360deg);
+  transform-origin: center;
+  transform-box: fill-box;
+}
+}
+
+@keyframes spin2{
+  0% {
+    transform: rotate(0deg);
+    transform-origin: center;
+    transform-box: fill-box;
+}
+100% {
+  transform: rotate(-360deg);
+  transform-origin: center;
+  transform-box: fill-box;
+}
+}
 
 @media screen and(max-width:1200px) {
   .container-fluid{

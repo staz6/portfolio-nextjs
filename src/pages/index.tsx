@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import BannerSection from "@/components/Panel/BannerSection";
 import ContentSection from "@/components/Panel/ContentSection";
 import NebulaBackground from "@/components/Panel/NebulaBackground";
+import SkillDescriptionSection from "@/components/SkillsDescriptionSection";
 import SkillsSection from "@/components/SkillSection";
 import { Meta } from "@/layouts/Meta";
 import { Main } from "@/templates/Main";
@@ -96,6 +97,7 @@ const Index = () => {
             </div>
           </div>
         </div>
+        <SkillDescriptionSection />
       </div>
     </Main>
   );
