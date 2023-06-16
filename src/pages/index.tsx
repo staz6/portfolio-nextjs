@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import BannerSection from "@/components/Panel/BannerSection";
 import ContentSection from "@/components/Panel/ContentSection";
 import NebulaBackground from "@/components/Panel/NebulaBackground";
+import SkillsSection from "@/components/SkillSection";
 import { Meta } from "@/layouts/Meta";
 import { Main } from "@/templates/Main";
 
@@ -72,12 +73,10 @@ const Index = () => {
       <div className="relative z-[2] bg-[#071231] transition-[1.5s]">
         <NebulaBackground transform={`scale(${nebulaScale})`} />
         <div className="h-[480vh] w-full">
-          {/* Higher z-index to keep banner on top initially */}
           <div className="relative z-[30]">
             <BannerSection />
           </div>
 
-          {/* Lower z-index but kept as absolute to come behind Banner */}
           <div className="absolute top-0 z-[20] h-[480vh] w-full">
             <ContentSection
               heroOpacity={heroOpacity}
@@ -88,13 +87,12 @@ const Index = () => {
             />
           </div>
 
-          {/* Lowest z-index to come behind all other sections */}
           <div className="fixed top-0 z-[10] h-screen w-full bg-transparent bg-cover text-sm leading-[1.42857143]  transition-[0.2s]">
             <div
               className="relative mx-auto flex min-h-screen w-full max-w-[690px] items-center justify-center text-[#ffff]"
               style={{ opacity: skillSetOpacity }}
             >
-              <h2>Skill sets</h2>
+              <SkillsSection />
             </div>
           </div>
         </div>
