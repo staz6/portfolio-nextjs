@@ -1,8 +1,11 @@
 import { useEffect, useState } from "react";
 
+import PortfolioBackgroundIcon from "@/components/icons/PortfolioBackgroundIcon";
+import PortfolioSpinIcon from "@/components/icons/PortfolioSpinIcon";
 import BannerSection from "@/components/Panel/BannerSection";
 import ContentSection from "@/components/Panel/ContentSection";
 import NebulaBackground from "@/components/Panel/NebulaBackground";
+import ProjectContainer from "@/components/PortfolioSection/ProjectContainer";
 import SkillDescriptionSection from "@/components/SkillsDescriptionSection";
 import SkillsSection from "@/components/SkillSection";
 import { Meta } from "@/layouts/Meta";
@@ -98,6 +101,48 @@ const Index = () => {
           </div>
         </div>
         <SkillDescriptionSection />
+      </div>
+      <div className="relative z-[2] bg-black bg-cover bg-no-repeat leading-[1.42857143] text-[#333]">
+        <PortfolioBackgroundIcon />
+        <PortfolioSpinIcon />
+        <div className="container-fluid">
+          <h2 className="m-0 mb-[15px] mt-[126px] p-0 font-[bold] text-2xl leading-6 text-[#87BA34]">
+            Portfolio
+          </h2>
+          <div className="gap-4 lg:grid lg:grid-cols-12">
+            <div className=" lg:col-span-4">
+              <p className="m-0 p-0 text-lg leading-6 text-white">
+                Some of my most memorable projects highlight
+              </p>
+            </div>
+            <div className="flex flex-col items-end gap-10 lg:col-span-8">
+              <ProjectContainer
+                src="ih-1.webp"
+                position="center"
+                stack={["React", "Nodejs", "Firebase", "AWS"]}
+                desc="Loren ipsum"
+              />
+              <ProjectContainer
+                src="sc-1.webp"
+                position="center"
+                stack={["React", ".Net", "Azure Function"]}
+                desc="Loren ipsum"
+              />
+              <ProjectContainer
+                src="cd-1.webp"
+                position="top"
+                stack={["React", "Nestjs", "Shopify"]}
+                desc="Loren ipsum"
+              />
+              <ProjectContainer
+                src="occu-1.webp"
+                position="top"
+                stack={["React", "Lambda Function", "AWS Cognito"]}
+                desc="Loren ipsum"
+              />
+            </div>
+          </div>
+        </div>
       </div>
     </Main>
   );
