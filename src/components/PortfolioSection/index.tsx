@@ -1,3 +1,5 @@
+import PortfolioBackgroundIcon from "../icons/PortfolioBackgroundIcon";
+import PortfolioSpinIcon from "../icons/PortfolioSpinIcon";
 import ProjectContainer from "./ProjectContainer";
 
 export default function PortfolioSection() {
@@ -29,29 +31,33 @@ export default function PortfolioSection() {
   ];
 
   return (
-    <div className="container-fluid relative z-10">
-      <h2 className="m-0 mb-[15px] mt-[126px] p-0 font-[bold] text-2xl leading-6 text-[#87BA34]">
-        Portfolio
-      </h2>
-      <div className="gap-4 lg:grid lg:grid-cols-12">
-        <div className="lg:col-span-4">
-          <p className="m-0 p-0 text-lg leading-6 text-white">
-            Some of my most memorable projects highlight
-          </p>
-        </div>
-        <div className="flex flex-col items-end gap-10 lg:col-span-8">
-          {projects.map((project, index) => (
-            <ProjectContainer
-              // eslint-disable-next-line react/no-array-index-key
-              key={index}
-              src={project.src}
-              position={project.position}
-              stack={project.stack}
-              desc={project.desc}
-            />
-          ))}
+    <>
+      <PortfolioBackgroundIcon />
+      <PortfolioSpinIcon />
+      <div className="container-fluid relative z-10">
+        <h2 className="m-0 mb-[15px] mt-[126px] p-0 font-[bold] text-2xl leading-6 text-[#87BA34]">
+          Portfolio
+        </h2>
+        <div className="gap-4 lg:grid lg:grid-cols-12">
+          <div className="lg:col-span-4">
+            <p className="m-0 p-0 text-lg leading-6 text-white">
+              Some of my most memorable projects highlight
+            </p>
+          </div>
+          <div className="flex flex-col items-end gap-10 lg:col-span-8">
+            {projects.map((project, index) => (
+              <ProjectContainer
+                // eslint-disable-next-line react/no-array-index-key
+                key={index}
+                src={project.src}
+                position={project.position}
+                stack={project.stack}
+                desc={project.desc}
+              />
+            ))}
+          </div>
         </div>
       </div>
-    </div>
+    </>
   );
 }

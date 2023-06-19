@@ -1,8 +1,6 @@
-import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
 
-import PortfolioBackgroundIcon from "@/components/icons/PortfolioBackgroundIcon";
-import PortfolioSpinIcon from "@/components/icons/PortfolioSpinIcon";
+import ExperienceSection from "@/components/ExperienceSection";
 import BannerSection from "@/components/Panel/BannerSection";
 import ContentSection from "@/components/Panel/ContentSection";
 import NebulaBackground from "@/components/Panel/NebulaBackground";
@@ -13,7 +11,6 @@ import { Meta } from "@/layouts/Meta";
 import { Main } from "@/templates/Main";
 
 const Index = () => {
-  const router = useRouter();
   const [heroOpacity, setHeroOpacity] = useState(1);
   const [heroTransform, setHeroTransform] = useState("scale(1.05)");
   const [image1Opacity, setImage1Opacity] = useState(1);
@@ -104,81 +101,9 @@ const Index = () => {
         </div>
         <SkillDescriptionSection />
       </div>
-      <div className="relative z-[2] bg-black bg-cover bg-no-repeat leading-[1.42857143] text-[#333]">
-        <PortfolioBackgroundIcon />
-        <PortfolioSpinIcon />
+      <div className="relative z-[2] overflow-hidden bg-black bg-cover bg-no-repeat leading-[1.42857143] text-[#333]">
         <PortfolioSection />
-
-        <div className="container-fluid relative z-10 mt-10">
-          <h2 className="m-0 mb-[15px] p-0 font-[bold] text-2xl leading-6 text-[#87BA34]">
-            Comapnies who helped me grow
-          </h2>
-          <div className="tems-center flex w-full flex-row gap-x-6 border-t border-solid border-t-[#87BA34] pb-9">
-            <div>
-              <h3 className="mx-0 mb-2.5 mt-2 box-border text-[1.4rem] font-light leading-10 text-white">
-                Upwork
-              </h3>
-              <p className="mx-0 mb-2.5 mt-[15px] box-border w-[580px] text-base font-normal not-italic leading-6 text-slate-50">
-                While working full time as a freelance Software developer on
-                Upwork, I provided vendor services to enterprise-level
-                organizations at MK-Consulting and GR-Digital. This included
-                working on several React-based applications, writing unit and
-                integration tests, end-to-end testing with Cypress, creating new
-                endpoints for backend services, and developing the front end of
-                a Crypto exchange platform.
-              </p>
-            </div>
-            <img
-              src={`${router.basePath}/assets/icons/upwork-logo.svg`}
-              alt="upwork logo"
-              width={248}
-              height={88}
-            />
-          </div>
-
-          <div className="flex w-full flex-row items-center gap-x-6 border-t border-solid border-t-[#87BA34] pb-9">
-            <div>
-              <h3 className="mx-0 mb-2.5 mt-2 box-border text-[1.4rem] font-light leading-10 text-white">
-                Quantum-hub
-              </h3>
-              <p className="mx-0 mb-2.5 mt-[15px] box-border w-[650px] text-base font-normal not-italic leading-6 text-slate-50">
-                Serving as a Full-stack developer for QuantumHub, I worked on
-                various MERN stack projects, from AI modeling for news feed
-                generation to insurance claim solutions, website and
-                infrastructure optimization, and a .NET backend for a charity
-                initiative. Currently, I am working on a mobile app using React
-                Native, a serverless backend for an IoT initiative, and an oauth
-                gateway using AWS Cognito and dynamodb fine-grained access
-                control.
-              </p>
-            </div>
-            <img
-              src={`${router.basePath}/assets/icons/qh-logo.webp`}
-              alt="upwork logo"
-              height={88}
-            />
-          </div>
-
-          <div className="tems-center flex w-full flex-row gap-x-6 border-t border-solid border-t-[#87BA34] pb-9">
-            <div>
-              <h3 className="mx-0 mb-2.5 mt-2 box-border text-[1.4rem] font-light leading-10 text-white">
-                Nastech LTD
-              </h3>
-              <p className="mx-0 mb-2.5 mt-[15px] box-border w-[740px] text-base font-normal not-italic leading-6 text-slate-50">
-                As a part of the team at NASTECH, a leading IT solutions and
-                services provider, I contributed to the development of an office
-                ERP based on microservices architecture and led the development
-                and project management of a B2B e-commerce platform.
-              </p>
-            </div>
-            <img
-              src={`${router.basePath}/assets/icons/nastech-logo.svg`}
-              alt="upwork logo"
-              width={248}
-              height={88}
-            />
-          </div>
-        </div>
+        <ExperienceSection />
       </div>
     </Main>
   );
