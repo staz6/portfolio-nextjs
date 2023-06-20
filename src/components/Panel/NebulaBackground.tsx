@@ -7,6 +7,7 @@ export default function NebulaBackground({ transform }: { transform: string }) {
     <div
       className="fixed left-0 top-0 h-screen w-full transition-all duration-1000 ease-in-out"
       style={{ transform }}
+      id="home"
     >
       <Image
         src={`${router.basePath}/assets/images/Nebula_03.webp`}

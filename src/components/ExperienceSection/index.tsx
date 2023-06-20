@@ -10,7 +10,7 @@ const companyDisc =
 export default function ExperienceSection() {
   const router = useRouter();
   return (
-    <div className="container-fluid relative z-10 mt-10">
+    <div className="container-fluid relative z-10 mt-10" id="experience">
       <h2 className="m-0 mb-[15px] p-0 font-[bold] text-[30px] leading-6 text-[#87BA34]">
         Comapnies who helped me grow
       </h2>

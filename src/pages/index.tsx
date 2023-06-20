@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 
 import ExperienceSection from "@/components/ExperienceSection";
+import Navbar from "@/components/Navbar";
 import BannerSection from "@/components/Panel/BannerSection";
 import ContentSection from "@/components/Panel/ContentSection";
 import NebulaBackground from "@/components/Panel/NebulaBackground";
@@ -73,6 +74,7 @@ const Index = () => {
 
   return (
     <Main meta={<Meta title={pageTitle} description={pageDescription} />}>
+      <Navbar />
       <div className="relative z-[2] bg-[#071231] transition-[1.5s]">
         <NebulaBackground transform={`scale(${nebulaScale})`} />
         <div className="h-[480vh] w-full">
