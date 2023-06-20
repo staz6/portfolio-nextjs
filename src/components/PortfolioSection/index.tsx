@@ -35,12 +35,12 @@ export default function PortfolioSection() {
       <PortfolioBackgroundIcon />
       <PortfolioSpinIcon />
       <div className="container-fluid relative z-10">
-        <h2 className="m-0 mb-[15px] mt-[126px] p-0 font-[bold] text-2xl leading-6 text-[#87BA34]">
+        <h2 className="m-0 mb-[15px] mt-[126px] p-0 font-[bold] text-[30px] leading-6 text-[#87BA34]">
           Portfolio
         </h2>
         <div className="gap-4 lg:grid lg:grid-cols-12">
           <div className="lg:col-span-4">
-            <p className="m-0 p-0 text-lg leading-6 text-white">
+            <p className="m-0 pb-6 text-lg leading-6 text-white lg:p-0">
               Some of my most memorable projects highlight
             </p>
           </div>

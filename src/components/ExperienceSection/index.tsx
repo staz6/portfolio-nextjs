@@ -11,7 +11,7 @@ export default function ExperienceSection() {
   const router = useRouter();
   return (
     <div className="container-fluid relative z-10 mt-10">
-      <h2 className="m-0 mb-[15px] p-0 font-[bold] text-2xl leading-6 text-[#87BA34]">
+      <h2 className="m-0 mb-[15px] p-0 font-[bold] text-[30px] leading-6 text-[#87BA34]">
         Comapnies who helped me grow
       </h2>
       <div className={experienceSectionContainer}>
