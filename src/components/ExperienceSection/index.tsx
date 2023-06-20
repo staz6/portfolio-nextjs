@@ -1,7 +1,7 @@
 import { useRouter } from "next/router";
 
 const experienceSectionContainer =
-  "items-center flex w-full flex-row gap-x-6 border-t border-solid border-t-[#87BA34] pb-9";
+  "items-center md:flex w-full flex-row gap-x-6 border-t border-solid border-t-[#87BA34] pb-9";
 const companyTitle =
   "mx-0 mb-2.5 mt-2 box-border text-[1.4rem] font-light leading-10 text-white";
 const companyTitleLink = "text-white hover:border-white";
@@ -25,7 +25,7 @@ export default function ExperienceSection() {
               Upwork
             </a>
           </h3>
-          <p className={`w-[580px] ${companyDisc}`}>
+          <p className={`md:w-[550px] lg:w-[580px] ${companyDisc}`}>
             While working full time as a freelance Software developer on Upwork,
             I provided vendor services to enterprise-level organizations at
             MK-Consulting and GR-Digital. This included working on several
@@ -60,7 +60,7 @@ export default function ExperienceSection() {
               Quantum-hub
             </a>
           </h3>
-          <p className={`w-[650px] ${companyDisc}`}>
+          <p className={`md:w-[600px] lg:w-[650px] ${companyDisc}`}>
             Serving as a Full-stack developer for QuantumHub, I worked on
             various MERN stack projects, from AI modeling for news feed
             generation to insurance claim solutions, website and infrastructure
@@ -94,7 +94,7 @@ export default function ExperienceSection() {
               Nastech
             </a>
           </h3>
-          <p className={`w-[740px] ${companyDisc}`}>
+          <p className={`md:w-[640px] lg:w-[740px] ${companyDisc}`}>
             As a part of the team at NASTECH, a leading IT solutions and
             services provider, I contributed to the development of an office ERP
             based on microservices architecture and led the development and

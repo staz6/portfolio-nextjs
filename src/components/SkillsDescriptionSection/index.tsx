@@ -65,7 +65,7 @@ export default function SkillDescriptionSection() {
   ];
 
   return (
-    <div className="relative z-[50] w-full">
+    <div className="relative z-[50] w-full overflow-hidden">
       <div className="container-fluid skills-description--section">
         {skills.map((skill, index) => (
           <SkillBlock

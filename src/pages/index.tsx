@@ -90,7 +90,7 @@ const Index = () => {
             />
           </div>
 
-          <div className="fixed top-0 z-[10] h-screen w-full bg-transparent bg-cover text-sm leading-[1.42857143]  transition-[0.2s]">
+          <div className="fixed top-0 z-[10] h-screen w-full  bg-transparent bg-cover text-sm leading-[1.42857143]  transition-[0.2s]">
             <div
               className="relative mx-auto flex min-h-screen w-full max-w-[690px] items-center justify-center text-[#ffff]"
               style={{ opacity: skillSetOpacity }}

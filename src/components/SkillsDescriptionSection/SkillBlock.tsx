@@ -24,7 +24,7 @@ const SkillBlock: React.FC<SkillBlockProps> = ({
     <div
       className={`flex h-[50vh] w-full ${
         reverse ? "flex-row-reverse" : ""
-      } items-center justify-between`}
+      } items-center justify-center gap-x-8 lg:justify-between`}
     >
       <div>
         <h2 className="mb-4 text-[30px] font-bold leading-[34px] text-white">
@@ -34,7 +34,7 @@ const SkillBlock: React.FC<SkillBlockProps> = ({
           {contentText}
         </p>
       </div>
-      <div className="relative h-[350px] w-[350px]  lg:scale-125">
+      <div className="relative h-[350px] w-[350px]   lg:scale-125">
         <BackgroundIcon />
         <Image
           src={`${router.basePath}/assets/icons/${iconPath}`}

@@ -4,7 +4,7 @@ export default function AboutMe() {
   return (
     <div className="fixed top-0 z-[21] flex h-[calc(100vh_+_2px_px_)] w-[calc(100%_+_2px)] flex-col items-center bg-transparent transition-[0.2s]">
       <div className="container-fluid fixed z-10 mt-32 max-w-4xl">
-        <h2 className="w-[700px] text-3xl font-bold leading-10 text-white ">
+        <h2 className="text-3xl font-bold leading-10 text-white md:w-[700px] ">
           Providing Solutions to Your Tech Challenges with React and Node.js
         </h2>
         <p className={text}>

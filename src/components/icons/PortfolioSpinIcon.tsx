@@ -2,7 +2,7 @@ export default function PortfolioSpinIcon() {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      className="absolute top-[200px] w-[450px] animate-[spin_30s_linear_0s_infinite] overflow-hidden"
+      className="absolute top-[200px] w-[450px] animate-[spin_30s_linear_0s_infinite] overflow-hidden max-lg:right-0"
       width="765.322"
       height="765.322"
       viewBox="0 0 765.322 765.322"

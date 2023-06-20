@@ -44,7 +44,7 @@ export default function PortfolioSection() {
               Some of my most memorable projects highlight
             </p>
           </div>
-          <div className="flex flex-col items-end gap-10 lg:col-span-8">
+          <div className="flex flex-col  gap-10 lg:col-span-8 lg:items-end">
             {projects.map((project, index) => (
               <ProjectContainer
                 // eslint-disable-next-line react/no-array-index-key
